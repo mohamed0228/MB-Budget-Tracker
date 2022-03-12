@@ -6,16 +6,14 @@
 
 ### App Screenshot
 
-![](images/budget-tracker.png)
+![](./public/images/budget.png)
 
 ### App Deployed to Heroku
 
-https://budget-tracker-pwa-app.herokuapp.com/
+https://enigmatic-plains-99724.herokuapp.com/
 
-### App Demo
-
-![](images/budget-tracker.gif)
-
+### github link 
+https://github.com/mohamed0228/MB-Budget-Tracker
 ### Application Functionalities
 
 - The ability to enter deposits offline.
